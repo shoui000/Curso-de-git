@@ -28,5 +28,6 @@ Lista de tarefas:
 - [x] viver
 - [ ] essa é a unica tarefa que eu consigo realizar
 
-[qualquer coisa, eu não tenho nada pra mostrar](http://aws.random.cat/)
-<img src="">
+[qualquer coisa, eu não tenho nada pra mostrar](https://www.youtube.com/)
+
+[<img src="teste-markdown/Maskara.png">](https://www.youtube.com/)
