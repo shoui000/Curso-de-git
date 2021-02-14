@@ -7,7 +7,7 @@
 ***
 A linguagem **Markdown não é** uma linguagem de programação, ela é uma _linguagem de marcação_ que nem o htlm.
 
-Os criadores da Markdown criaram esta linguagem porque é uma linguagem de difícil leitura, você não consegue muitas vezes diferenciar "código" de texto e texto de código, ás vezes eles estão juntos ~~e shallow now~~, diferente da Markdown, pois mesmo que você pegue o "código" pra ler, você consegue ler sem problema.
+Os criadores da Markdown criaram esta linguagem porque o html é uma linguagem de difícil leitura, você não consegue muitas vezes diferenciar "código" de texto e texto de código, as vezes eles estão juntos ~~e shallow now~~, diferente da Markdown, pois mesmo que você pegue o "código" pra ler, você consegue ler sem problema.
 
 ### Aonde eu uso Markdown?
 ---
@@ -31,3 +31,21 @@ Lista de tarefas:
 [qualquer coisa, eu não tenho nada pra mostrar](https://www.youtube.com/)
 
 [<img src="teste-markdown/Maskara.png">](https://www.youtube.com/)
+
+Num | Nome | Nota
+---|---|---
+1 | Gustavo | 8,5
+
+`print('python é legal')`
+
+```
+a = 'muito legal'
+print(f'Python é {a}')
+```
+
+
+[aqui](https://github.com/ikatyang/emoji-cheat-sheet) tem a biblioteca de emoji :+1:
+
+[aqui](https://emojipedia.org/) tem a outra biblioteca
+ 
+[aqui](https://github.com/gustavoguanabara/git-github/blob/master/manuais-PDF/guia-markdown.pdf) tem um guia de markdown completo
